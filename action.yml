@@ -1,5 +1,8 @@
 # action.yml
 name: 'evo docker Hello World x'
+branding:
+  icon: "upload-cloud"
+  color: "red"
 description: 'Greet someone and record the time'
 inputs:
   who-to-greet:  # id of input
