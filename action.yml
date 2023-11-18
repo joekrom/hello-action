@@ -1,5 +1,5 @@
 # action.yml
-name: 'Hello World'
+name: 'evo docker Hello World x'
 description: 'Greet someone and record the time'
 inputs:
   who-to-greet:  # id of input
